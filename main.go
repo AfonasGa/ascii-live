@@ -19,7 +19,7 @@ var NotFoundMessage = map[string]string{
 }
 
 var NotCurledMessage = map[string]string{
-	"error": "You almost ruined a good surprise. Come on, curl it in terminal.",
+	"error": "ты заруинил хороший прикол, давай, curl в терминале",
 }
 
 var availableFrames []string
